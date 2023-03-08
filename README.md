@@ -1,6 +1,6 @@
 # projv2
 
-lutter project.
+flutter project.
 
 ## Getting Started
 
